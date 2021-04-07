@@ -6,3 +6,15 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"/>
 
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/searchItem"
+        android:icon="@android:drawable/ic_menu_search" />
+    <item
+        android:id="@+id/cameraItem"
+        android:icon="@android:drawable/ic_menu_camera" />
+    <item
+        android:id="@+id/callItem"
+        android:icon="@android:drawable/ic_menu_call" />
+    </menu>
