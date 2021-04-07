@@ -113,7 +113,7 @@
         android:id="@+id/radioButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="RadioButton"
+        android:text="남"
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="326dp" />
 
@@ -121,7 +121,7 @@
         android:id="@+id/radioButton2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="RadioButton"
+        android:text="여"
         tools:layout_editor_absoluteX="277dp"
         tools:layout_editor_absoluteY="328dp" />
 
@@ -129,7 +129,7 @@
         android:id="@+id/checkBox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CheckBox"
+        android:text="구글 계정 연동"
         tools:layout_editor_absoluteX="109dp"
         tools:layout_editor_absoluteY="432dp" />
 
