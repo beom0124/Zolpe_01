@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         print("git test")
         print("BAEEEEE")
+        print("BAE Love ChangWhan")
     }
 }
